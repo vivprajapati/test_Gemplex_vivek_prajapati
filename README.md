@@ -1,1 +1,1 @@
-make sure your internet commection is on.s
+make sure your internet commection is on.
